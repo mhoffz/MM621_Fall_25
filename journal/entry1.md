@@ -1,6 +1,6 @@
 # Chapter 1 of DOET
 
-##Humor, Overcomplication, and Mapping
+## Humor, Overcomplication, and Mapping
 
 I was surprised at how funny this book was. For instance, on page 32 is the “completely unacceptable” design (fig. 1.15) for a device which functions as, among other things, an alarm clock, a tape player, a radio, a desk lamp, and a phone. This image is clearly a parody of overcomplicated and poor design. In a way, it seems like making a bad design like this is a good way to start to think about what good design is. It’s also a good way to take some pressure off as a designer, and to see the fun and humor in the design process. Another interesting aspect of this is that we now have devices in our pockets everyday that carry out most of the functions of this chimera device. This same subsection of the chapter also introduces the “Paradox of Technology” on page 31. This is the idea that as we try to simplify our lives with technology, the technology itself becomes more and more complicated. I can relate to this sentiment. My life feels somewhat overcomplicated at the moment, although it’s not purely due to the technology. However, its effects are inescapable and interwoven with most aspects of life.
 
