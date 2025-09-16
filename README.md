@@ -14,7 +14,7 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 
 ## Eloquent JavaScript
 
-[Chapter 2 Exercises](EloquentJS/EloquentJS Ch2 Exercises/index.html)
+[Chapter 2 Exercises](eloquentjs/eloquent_js_ch2_exercises/index.html)
 
 ## In-Class Exercises
 
