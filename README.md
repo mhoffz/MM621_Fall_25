@@ -12,6 +12,10 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 
 *Italic style*
 
+## In-Class Exercises
+
+[Character/Scene Randomizer](
+
 ### This is the image section
 
 This is an image below:
