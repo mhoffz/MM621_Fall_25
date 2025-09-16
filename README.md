@@ -12,6 +12,10 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 
 *Italic style*
 
+## Eloquent JavaScript
+
+[Chapter 2 Exercises](EloquentJS/EloquentJS Ch2 Exercises/index.html)
+
 ## In-Class Exercises
 
 [Character/Scene Randomizer](exercises/character_randomizer/index.html)
