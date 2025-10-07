@@ -1,3 +1,6 @@
+# Chapter 2 of DOET
+## Psychology, Cognition, Consciousness, Design
+
 This chapter focuses on how we interact with the world around us, using psychological concepts to describe the feedback loop between us and our environment. It starts out by describing two “gulfs” that have to be crossed in every action: the first one is the gulf of execution, where we figure out what we want to do and do it; the second is the gulf of evaluation, where we assess what effect our action had and whether it accomplished our goal.  Don Norman breaks each of these gulfs into sub-sections (on the execution side: goal, plan, specify, perform; and on the evaluation side: perceive, interpret, compare), and groups each of these subsections into levels of processing (visceral, behavioral, reflective) based on what type of neurological structures are involved with each. The reflective level of processing is the one that involves the most conscious thought, and it is the one where we figure out whether we accomplished our goal and what to try next in order to do so.
 
 Another concept Norman outlines is “root cause analysis”, or following a behavior to its primary goal, the one that drives all sub-goals. The related quote from the Harvard business professor, and Norman’s analysis, got me to laugh.
