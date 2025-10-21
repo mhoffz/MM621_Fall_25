@@ -1,4 +1,5 @@
-DOET Chapter 4, Pages 123-141: Constraints, Batteries, Merging Lanes
+# DOET Chapter 4, Pages 123-141
+## Constraints, Batteries, Merging Lanes
 
 This chapter so far explained four different types of constraints which help users figure out how to use things. The first type are physical constraints, which physically prevent a user from using something the wrong way. The second are cultural constraints, which rely on the user’s societal understandings of what is appropriate in a given situation. The third are semantic constraints, which involve the user extrapolating knowledge of the world to determine the correct use of something. The final type are logical constraints, which involve the user making a logical decision of how to use something based on the available information. Don Norman gives examples of each of these.
 
