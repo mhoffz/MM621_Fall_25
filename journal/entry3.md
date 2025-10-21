@@ -1,1 +1,9 @@
+DOET Chapter 4, Pages 123-141: Constraints, Batteries, Merging Lanes
 
+This chapter so far explained four different types of constraints which help users figure out how to use things. The first type are physical constraints, which physically prevent a user from using something the wrong way. The second are cultural constraints, which rely on the user’s societal understandings of what is appropriate in a given situation. The third are semantic constraints, which involve the user extrapolating knowledge of the world to determine the correct use of something. The final type are logical constraints, which involve the user making a logical decision of how to use something based on the available information. Don Norman gives examples of each of these.
+
+One example he gives is the assembly of a Lego motorcycle. Without instructions, people were able to build the motorcycle simply based on these four types of constraints. I have a friend who really likes Lego, and I’m wondering if there are some interesting directions to explore in the applications of Legos for design and usability. It might be interesting to interview my friend and see if they have any thoughts about what types of designs are easy to build versus confusing, etc. One of our classmates utilized Lego in her project as well.
+
+A few notable elements for me in this reading. Firstly, the orientation-insensitive battery. Awesome! We should definitely have those. Or at least the orientation-insensitive battery compartment. Second, merging lanes in California. I really appreciate the zipper-like effect when this works well. Is this a cultural constraint? People’s shared understandings of what’s appropriate and fair? It also has a physical aspect: no-one wants to crash into each other. Honorable mentions for elements from this reading include inside-door handles on cars and accidentally raising the landing gear on a plane while still grounded.
+
+Activity-centered control seems important.
