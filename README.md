@@ -19,6 +19,7 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 ## In-Class Exercises
 
 [Character/Scene Randomizer](exercises/character_randomizer/index.html)
+
 [Food Spreadsheet Visualization](exercises/food-spreadsheet-in-class/index.html)
 
 ### This is the image section
