@@ -22,6 +22,10 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 
 [Food Spreadsheet Visualization](exercises/food-spreadsheet-in-class/index.html)
 
+## Extra Credit
+
+[Data Viz Writeup]()
+
 ### This is the image section
 
 This is an image below:
