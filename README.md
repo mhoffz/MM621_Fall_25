@@ -25,6 +25,7 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 ## Extra Credit
 
 [Data Viz Writeup](extracredit/extracredit-writeup.md)
+[Prototype for random motion](extracredit/extra-credit1/index.html)
 
 ### This is the image section
 
