@@ -24,7 +24,7 @@ This is a link! --> [Check out this site!](https://oks-logo.bandcamp.com/)
 
 ## Extra Credit
 
-[Data Viz Writeup]()
+[Data Viz Writeup](extracredit/extracredit-writeup.md)
 
 ### This is the image section
 
