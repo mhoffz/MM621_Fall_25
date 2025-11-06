@@ -1,1 +1,6 @@
+# DOET Chapter 4, Pages 141-161: 
+## Corpses, Conventions, Controls
 
+This part of Don Norman’s Design of Everyday Things begins by describing a phenomenon known as “forcing functions”, where designers prevent misuse by creating conditional relationships between steps. An example is save-messages when you quit a computer application; this is an example of the “lock-in” function, where users are prevented from leaving before completing a step. Another example is the “dead-man’s switch”, which is featured on certain machinery and requires a person to continuously or intermittently activate a control in order for the machine to function. This is an example of an “interlock” function, where operations are connected to each other. Norman notes that users often disable these functions due to annoyance, so designers must be careful to minimize annoyance.
+
+Further on, he describes different facets of faucet control: what aspects of control are required, ways of mechanizing this control, issues of mapping and signification. He then goes on to discuss sound, particularly as it’s being reintroduced into electric vehicles which are normally too quiet at slow speeds to be heard by pedestrians. This is a good example of design as it relates to convention, since part of the tendency is to attempt to replicate gas motor sounds.
